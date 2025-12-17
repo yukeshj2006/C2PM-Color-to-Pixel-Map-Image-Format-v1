@@ -15,6 +15,7 @@ C2PM v1 is a structural prototype:
 ─────────────────────────────────
 HOW TO BUILD AND USE
 ─────────────────────────────────
+
 1. Requirements
 GCC or Clang
 stb_image.h and stb_image_write.h (included in the repo)
@@ -64,6 +65,7 @@ Educational & Research Tools
 ─────────────────────────────────
 ROADMAP
 ─────────────────────────────────
+
 v2 — RLE compression for index lists  
 v3 — Hash-indexed color table (O(1) lookup)  
 v4 — Optional compression modes (lossy & lossless)  
@@ -72,8 +74,10 @@ v5 — C2PM viewer + color masking tools
 C2PM is open-source under the MIT License and intended for research, experimentation, and educational use.
 
 Created by: Yukesh J
+
 ─────────────────────────────────
 CREDITS
 ─────────────────────────────────
+
 This project uses the stb_image and stb_image_write libraries by Sean Barrett (nothings.org),
 released into the public domain and MIT-licensed.
